@@ -1,0 +1,1 @@
+dotnet run -i files/test/SizeGenotype/size10.json

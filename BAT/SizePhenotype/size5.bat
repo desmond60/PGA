@@ -1,0 +1,1 @@
+dotnet run -i files/test/SizePhenotype/size5.json
